@@ -17,6 +17,7 @@ Seestr. 36 <br>
 
  Airflow, CI, CSS, Django, Docker, Git, HTML, Java, Javascript, Linux, Numpy, Pandas, Python, Scipy
 
+
 ## Education
 
 `December 2017-August 2020`
@@ -32,7 +33,7 @@ __Fu Berlin__
 `Oktober 2012 - August 2015`
 __TU Dresden__ 
 - _B.Sc. in Physics_
-- Bachelor thesis dealt with the calibration of a so called „nano indenter“. Involved a lot of data processing in Python.
+- Bachelor thesis dealt with the calibration of a so called 'nano indenter'. Involved a lot of data processing in Python.
 
 
 `September 1999 - June 2012`
@@ -68,9 +69,14 @@ __Student Scientific Assistant__
 - _Fraunhofer IKTS Dresden_
 - Planning, running and evaluating experiments to determine the hardness and other properties of materials on a nano meter scale. Evaluation was done with Python and numerical frameworks as numpy and scipy.
 
+## Languages
+
+- German (Native)
+- English (Fluent)
+- Spanish (Basic)
 
 ## What else?
-I like calm people's things like reading books (mainly philosophical) and meditation. Despite that I'm into sports, especially traditional martial arts - I hope, I'll find a Kung Fu school in Bochum.
+I like calm people's things like reading books (mainly philosophical) and meditation. Despite that, I'm into sports, especially traditional martial arts - I hope, I'll find a Kung Fu school in Bochum!
 
 <!-- ### Footer
 
