@@ -34,7 +34,7 @@ __Fu Berlin__
 `Oktober 2012 - August 2015`
 __TU Dresden__ 
 - _B.Sc. in Physics_
-- Bachelor thesis dealt with the calibration of a so called 'nano indenter'. Involved a lot of data processing in Python.
+- The bachelor thesis dealt with the calibration of a so called 'nano indenter'. Involved a lot of data processing in Python.
 
 
 `September 1999 - June 2012`
@@ -53,7 +53,7 @@ __Student Developer__
 `January 2018 - June 2019`
 __Student Developer__
 - _Dev Crew Berlin UG_
-- Fullstack development for event webpages with strong focus on (Python) backend. Also creating all kind of internal tools (web and desktop applications) using Python and Javascript. Further some administrative tasks eg. managing mail accounts and domains.
+- Fullstack development for event webpages with strong focus on (Python) backend. Also creating all kinds of internal tools (web and desktop applications) using Python and Javascript. Further, some administrative tasks eg. managing mail accounts and domains.
 
 `September 2016 - December 2017`
 __Student Assistant__
