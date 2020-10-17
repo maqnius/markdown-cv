@@ -9,7 +9,8 @@ Seestr. 36 <br>
 
 <div id="webaddress">
 <a href="tel:+49 1590 2486 709">+49 1590 2486 709</a><br>
-<a href="mailto:mark.niehues@posteo.de">mark.niehues@posteo.de</a>
+<a href="mailto:mark.niehues@posteo.de">mark.niehues@posteo.de</a><br>
+<a href="https://github.com/maqnius">github.com/maqnius</a>
 </div>
 
 
