@@ -16,7 +16,7 @@ Seestr. 36 <br>
 
 ## Skills
 
- Airflow, CI, CSS, Django, Docker, Git, HTML, Java, Javascript, Linux, Numpy, Pandas, Python, Scipy
+ - Airflow, CI, CSS, Django, Docker, Git, HTML, Java, Javascript, Linux, Numpy, Pandas, Python, Scipy
 
 
 ## Education
@@ -77,7 +77,7 @@ __Student Scientific Assistant__
 - Spanish (Basic)
 
 ## What else?
-I like calm people's things like reading books (mainly philosophical) and meditation. Despite that, I'm into sports, especially traditional martial arts - I hope, I'll find a Kung Fu school in Bochum!
+- I like calm people's things like reading books (mainly philosophical) and meditation. Despite that, I'm into sports, especially traditional martial arts - I hope, I'll find a Kung Fu school in Bochum!
 
 <!-- ### Footer
 
