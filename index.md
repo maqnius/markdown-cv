@@ -1,88 +1,76 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Mark Niehues's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Mark Niehues
+
+Seestr. 36 <br>
+13353 Berlin
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="tel:+49 1590 2486 709">+49 1590 2486 709</a><br>
+<a href="mailto:mark.niehues@posteo.de">mark.niehues@posteo.de</a>
 </div>
 
 
-## Currently
+## Skills
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+ Airflow, CI, CSS, Django, Docker, Git, HTML, Java, Javascript, Linux, Numpy, Pandas, Python, Scipy
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`December 2017-August 2020`
+__Fu Berlin__ 
+- _B.Sc. Computer Science_
+- In the bachelor thesis, advanced algorithms for optimizing travel time of electronic vehicles were theoretically and practically investigated.
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`September 2016 - December 2017`
+__Fu Berlin__ 
+- _M.Sc. Computational Sciences (not finished)_
+- Focus on numerics and __data science__. Involved usage of Python's scientific libraries as __Numpy, Pandas and SciPy__. 
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+`Oktober 2012 - August 2015`
+__TU Dresden__ 
+- _B.Sc. in Physics_
+- Bachelor thesis dealt with the calibration of a so called „nano indenter“. Involved a lot of __data processing in Python__.
 
 
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`September 1999 - June 2012`
+__Gymnasium Remigianum Borken__ 
+- _A-Levels_
 
 
-## Occupation
+## Experience
 
-`1600`
-__Royal Mint__, London
+`July 2019 - now`
+__Student Developer__
+- _Carmeq GmbH_
+- Developing a web application with Django to manage a documentation and standardization process of map data using a SQL database. Also analyzing, developing and investigating a routing algorithm for electronic vehicles for my bachelor thesis.
+- After the thesis, I mainly worked on a more data science focused project and helped improving data processing of a complex REST application that supplies map data.
 
-- Warden
-- Minted coins
+`January 2018 - June 2019`
+__Student Developer__
+- _Dev Crew Berlin UG_
+- Fullstack development for event webpages with strong focus on (Python) backend. Also creating all kind of internal tools (web and desktop applications) using Python and Javascript. Further some administrative tasks eg. managing mail accounts and domains.
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`September 2016 - December 2017`
+__Student Assistant__
+- _FU Berlin - Meteorological Institute_
+- Linux System Administration: Taking care of the Linux (Debian) workstations as well as developing some smaller tools to make the admin's life easier.
+
+`August 2016 - September 2016`
+__Internship__
+- _FU Berlin - Meteorological Institute_
+- Compiling simulation software and comparing results with the legacy system.
+
+`December 2014 - December 2015`
+__Student Scientific Assistant__
+- _Fraunhofer IKTS Dresden_
+- Planning, running and evaluating experiments to determine the hardness and other properties of materials on a nano meter scale. Evaluation was done with Python and numerical frameworks as numpy and scipy.
 
 
+## What else?
+I like calm people's things like reading books (mainly philosophical) and meditation. Despite that I'm into sports, especially traditional martial arts - I hope, I'll find a Kung Fu school in Bochum.
 
 <!-- ### Footer
 
