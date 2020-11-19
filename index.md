@@ -50,6 +50,7 @@ __Student Developer__
 - Developing a web application with Django to manage a documentation and standardization process of map data using a SQL database. Also analyzing, developing and investigating a routing algorithm for electronic vehicles for my bachelor thesis.
 - After the thesis, I mainly worked on a more data science focused project and helped improving data processing of a complex REST application that supplies map data.
 
+
 `January 2018 - June 2019`
 __Student Developer__
 - _Dev Crew Berlin UG_
@@ -77,7 +78,14 @@ __Student Scientific Assistant__
 - Spanish (Basic)
 
 ## What else?
-- I like calm people's things like reading books (mainly philosophical) and meditation. Despite that, I'm into sports, especially traditional martial arts - I hope, I'll find a Kung Fu school in Bochum!
+
+`June 2019`
+__Successfull Participation in a Hackathon__
+- _Bundesministerium für Familie, Senioren, Frauen und Jugend_
+- The family ministry hosted a hackathon where new ideas to tackle social issues should be developed. Our group created a concept to improve the open data interface of the ministry to make it more accessible, interesting and useful for scientific and educational usage.
+
+## About me
+I like calm people's things like reading books (mainly philosophical) and meditation. Despite that, I'm into sports, especially traditional martial arts - I hope, I'll find a Kung Fu school in Bochum!
 
 <!-- ### Footer
 
