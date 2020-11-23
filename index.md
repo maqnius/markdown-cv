@@ -14,81 +14,75 @@ Seestr. 36 <br>
 </div>
 
 
-## Skills
+## Fähigkeiten
 
  - Airflow, CI, CSS, Django, Docker, Git, HTML, Java, Javascript, Linux, Numpy, Pandas, Python, Scipy
 
 
-## Education
+## Ausbildung
 
-`December 2017-August 2020`
+`Dezember 2017-August 2020`
 __Fu Berlin__ 
-- _B.Sc. Computer Science_
-- In the bachelor thesis, advanced algorithms for optimizing travel time of electronic vehicles were theoretically and practically investigated.
+- _B.Sc. Informatik_
+- Für die Bachelorarbeit wurde ein Streckenfindungsalgorithmus entwickelt und evaluiert, der die Fahrzeit speziell für elektornisch betriebene Fahrzeuge optimiert.
 
-`September 2016 - December 2017`
+`September 2016 - Dezember 2017`
 __Fu Berlin__ 
-- _M.Sc. Computational Sciences (not finished)_
-- Focus on numerics and data science. Involved usage of Python's scientific libraries as Numpy, Pandas and SciPy. 
+- _M.Sc. Computational Sciences (nicht abgeschlossen)_
+- Es wurden vor allem numerische und statistische Themenfelder betrachtet. Beispielsweise der Entwurf einer einfachen Teilchensimulation und eines Klimamodelles. Hierzu wurden vor allem die numerischen Python Bibliothenken Numpy, Pandas und SciPy verwendet.
 
 `Oktober 2012 - August 2015`
 __TU Dresden__ 
-- _B.Sc. in Physics_
-- The bachelor thesis dealt with the calibration of a so called 'nano indenter'. Involved a lot of data processing in Python.
+- _B.Sc. in Physik_
+- In der Bachelorarbeit wurde eine Methode entwickelt, um ein Gerät zur Härtemessung von dünnen Schichten („Nanoindenter“) zu kalibrieren. Dazu mussten Messdaten aufgenommen und mit Python verarbeitet werden. 
 
-
-`September 1999 - June 2012`
+`September 1999 - Juni 2012`
 __Gymnasium Remigianum Borken__ 
-- _A-Levels_
+- _Abitur_
 
 
-## Experience
+## Erfahrung
 
-`July 2019 - now`
-__Student Developer__
+`Juli 2019 - heute`
+__Studentischer Entwickler__
 - _Carmeq GmbH_
-- Developing a web application with Django to manage a documentation and standardization process of map data using a SQL database. Also analyzing, developing and investigating a routing algorithm for electronic vehicles for my bachelor thesis.
-- After the thesis, I mainly worked on a more data science focused project and helped improving data processing of a complex REST application that supplies map data.
+- Entwicklung einer Webseite in Django deren Aufgabe es war, die Dokumentation und Evaluation von Kartendaten zu optimieren. Dazu musste ein komplexes SQL Datenbankschema entworfen werden. Meine Tätigkeitsgebiet erstreckte sich auf das Front- und Backend.
+- Außerdem wurde meine Bachelorarbeit bei der Carmeq verfasst.
+- Anschließend half ich dabei, eine Datenpipeline zu optimieren, die Kartendaten zusammenträgt, normalisiert und über eine REST-Schnittstelle zur Verfügung stellt.
 
-
-`January 2018 - June 2019`
-__Student Developer__
+`Januar 2018 - Juni 2019`
+__Studentischer Entwickler__
 - _Dev Crew Berlin UG_
-- Fullstack development for event webpages with strong focus on (Python) backend. Also creating all kinds of internal tools (web and desktop applications) using Python and Javascript. Further, some administrative tasks eg. managing mail accounts and domains.
+- Fullstack Entwicklung in Python von kleinen bis mittelgroßen Event Webseiten, die über ein Backendsystem den Einladungsprozess für Veranstaltungen vereinfachen und optimieren. Zusätzlich entwickelte ich eine Reihe interner Werkzeuge. U.a. eine Website zur Administration der verwendeten Domains und E-Mail Postfächer, sowie eine Desktopanwendung, mit der Druckaufträge über eine REST-Schnittstelle automatisch gestartet und an bestimmte Drucker gesendet werden könnnen. Außerdem mussten (Linux-)Server administriert werden. 
 
-`September 2016 - December 2017`
-__Student Assistant__
+`September 2016 - Dezember 2017`
+__Studentische Hilfskraft__
 - _FU Berlin - Meteorological Institute_
-- Linux System Administration: Taking care of the Linux (Debian) workstations as well as developing some smaller tools to make the admin's life easier.
+- Unterstützung des Systemandimistratiors. Dies umfasste die Wartung der Desktopworkstations (Linux/Debian) und Server sowie die Entwicklung kleinere Tools für interne Aufgaben. 
 
 `August 2016 - September 2016`
-__Internship__
+__Praktikum__
 - _FU Berlin - Meteorological Institute_
-- Compiling simulation software and comparing results with the legacy system.
+- Kompilierung einer neuen Simulationssoftware und systematische Evaluation der Veränderungen im Vergleich zur derzeitigen Software.
 
 `December 2014 - December 2015`
 __Student Scientific Assistant__
 - _Fraunhofer IKTS Dresden_
-- Planning, running and evaluating experiments to determine the hardness and other properties of materials on a nano meter scale. Evaluation was done with Python and numerical frameworks as numpy and scipy.
+- Planung, Durchführung und Auswertung von Experimenten zur Bestimmung von Materialparametern wie Härte und Elastizität dünner Schichten. Die Evaluation wurde in Python mit den Frameworks Numpy und SciPy durchgeführt.
 
-## Languages
+## Sprachen
 
-- German (Native)
-- English (Fluent)
-- Spanish (Basic)
+- Deutsch (Muttersprache)
+- Englisch (Fließend)
+- Spanisch (Grundlagen)
 
-## What else?
+## Weiteres Engagement
 
-`June 2019`
-__Successfull Participation in a Hackathon__
+`Juni 2019`
+__Erfogreiche Teilnahme an einem Hackathon__
 - _Bundesministerium für Familie, Senioren, Frauen und Jugend_
-- The family ministry hosted a hackathon where new ideas to tackle social issues should be developed. Our group created a concept to improve the open data interface of the ministry to make it more accessible, interesting and useful for scientific and educational usage.
+- Das Ministerium veranstaltete einen Hackathon, um neue Ideen zu entwickeln, die gesellschaftliche Probleme auf innovative Art lösen können. Die Gruppe, deren Teil ich gewesen bin, entwarf ein Konzept für die OpenData-Seite des Ministeriums.
 
-## About me
-I like calm people's things like reading books (mainly philosophical) and meditation. Despite that, I'm into sports, especially traditional martial arts - I hope, I'll find a Kung Fu school in Bochum!
+## Über mich
 
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+- Ich nutze meine Freizeit entweder zum Lesen, Sport treiben (Kung Fu) oder Meditieren. Generell würde ich mich als ruhigen Mitmenschen mit einem hohen Anspruch an sich selbst beschreiben.
