@@ -31,7 +31,7 @@ __Fu Berlin__
 - _M.Sc. Computational Sciences (not finished)_
 - Focus on numerics and data science. Involved usage of Python's scientific libraries as Numpy, Pandas and SciPy. 
 
-`Oktober 2012 - August 2015`
+`October 2012 - August 2015`
 __TU Dresden__ 
 - _B.Sc. in Physics_
 - The bachelor thesis dealt with the calibration of a so called 'nano indenter'. Involved a lot of data processing in Python.
