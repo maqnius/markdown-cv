@@ -16,7 +16,7 @@ Seestr. 36 <br>
 
 ## Skills
 
- - Airflow, CI, CSS, Django, Docker, Git, HTML, Java, Javascript, Linux, Numpy, Pandas, Python, Scipy
+ - Airflow, CI, CSS, Django, Docker, Git, HTML, Javascript, Linux, Numpy, Pandas, Python, Scipy
 
 
 ## Education
