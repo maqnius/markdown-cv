@@ -4,8 +4,8 @@ title: Mark Niehues's CV
 ---
 # Mark Niehues
 
-Seestr. 36 <br>
-13353 Berlin
+Elsaßstr. 5 <br>
+44793 Bochum
 
 <div id="webaddress">
 <a href="tel:+49 1590 2486 709">+49 1590 2486 709</a><br>
