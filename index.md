@@ -21,6 +21,10 @@ Elsaßstr. 5 <br>
 
 <div class="clear"></div>
 
+## Skills
+
+ - Airflow, CI, CSS, Django, Docker, Git, HTML, Javascript, Linux, Numpy, Pandas, Python, Scipy
+
 ## Ausbildung
 
 `Dez 2017 - Aug 2020`
