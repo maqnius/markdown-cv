@@ -11,7 +11,9 @@ title: Mark Niehues's CV
 # Mark Niehues
 
 Elsaßstr. 5 <br>
-44793 Bochum
+44793 Bochum 
+<br>
+Geb.: 11.09.1992<br>
 
 <div id="webaddress">
 <a href="tel:+49 1590 2486 709">+49 1590 2486 709</a><br>
