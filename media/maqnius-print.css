@@ -183,5 +183,10 @@ strong {
 	visibility: hidden;
 }
 
+#photo {
+	float: right;
+}
 
-
+.clear {
+	clear: both;
+}

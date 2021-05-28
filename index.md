@@ -2,6 +2,12 @@
 layout: cv
 title: Mark Niehues's CV
 ---
+
+
+<div id="photo">
+<img src="media/profil_w200px.jpg">
+</div>  
+
 # Mark Niehues
 
 Elsaßstr. 5 <br>
@@ -10,85 +16,83 @@ Elsaßstr. 5 <br>
 <div id="webaddress">
 <a href="tel:+49 1590 2486 709">+49 1590 2486 709</a><br>
 <a href="mailto:mark.niehues@posteo.de">mark.niehues@posteo.de</a><br>
-<a href="https://github.com/maqnius">github.com/maqnius</a>
 </div>
 
+<div class="clear"></div>
 
 ## Skills
 
  - Airflow, CI, CSS, Django, Docker, Git, HTML, Javascript, Linux, Numpy, Pandas, Python, Scipy
 
+## Ausbildung
 
-## Education
+`Dez 2017 - Aug 2020`
+__B.Sc. Informatik__
+- _Fu Berlin_
+- Für die Bachelorarbeit wurde ein Streckenfindungsalgorithmus entwickelt und evaluiert, der die Fahrzeit speziell für elektornisch betriebene Fahrzeuge optimiert.
 
-`December 2017-August 2020`
-__Fu Berlin__ 
-- _B.Sc. Computer Science_
-- In the bachelor thesis, advanced algorithms for optimizing travel time of electronic vehicles were theoretically and practically investigated.
+`Sep 2016 - Dez 2017`
+__M.Sc. Computational Sciences (ohne Abschluss)__
+- _Fu Berlin_
+- Es wurden vor allem numerische und statistische Themenfelder betrachtet. Beispielsweise der Entwurf einer einfachen Teilchensimulation und eines Klimamodelles. Hierzu wurden vor allem die numerischen Python Bibliothenken Numpy, Pandas und SciPy verwendet. Ich habe den Master nicht abgeschlossen. Stattdessen wechselte ich nach zwei Semestern in den Bachelor Studiengang Informatik, der meinen Interessen mehr entsprach.
 
-`September 2016 - December 2017`
-__Fu Berlin__ 
-- _M.Sc. Computational Sciences (not finished)_
-- Focus on numerics and data science. Involved usage of Python's scientific libraries as Numpy, Pandas and SciPy. 
+`Okt 2012 - Aug 2015`
+__B.Sc. in Physik__
+- _TU Dresden_
+- In der Bachelorarbeit wurde eine Methode entwickelt, um ein Gerät zur Härtemessung von dünnen Schichten („Nanoindenter“) zu kalibrieren. Dazu mussten Messdaten aufgenommen und mit Python verarbeitet werden. 
 
-`October 2012 - August 2015`
-__TU Dresden__ 
-- _B.Sc. in Physics_
-- The bachelor thesis dealt with the calibration of a so called 'nano indenter'. Involved a lot of data processing in Python.
-
-
-`September 1999 - June 2012`
-__Gymnasium Remigianum Borken__ 
-- _A-Levels_
+`Sep 1999 - Jun 2012`
+__Abitur__
+- _Gymnasium Remigianum Borken_
 
 
-## Experience
+## Erfahrung
 
-`July 2019 - now`
-__Student Developer__
+`Feb 2021 - April 2021`
+__Fullstack Entwickler__
+- _Werkbank GmbH_
+- Entwicklung von Webanwendungen für mittelständische Unternehmen. Im Backend wurde eine REST Schnittstelle mittels Django implementiert. Im Frontend wurde React genutzt.
+
+`Jul 2019 - Dez 2020`
+__Studentischer Entwickler__
 - _Carmeq GmbH_
-- Developing a web application with Django to manage a documentation and standardization process of map data using a SQL database. Also analyzing, developing and investigating a routing algorithm for electronic vehicles for my bachelor thesis.
-- After the thesis, I mainly worked on a more data science focused project and helped improving data processing of a complex REST application that supplies map data.
+- Entwicklung einer Webseite in Django deren Aufgabe es war, die Dokumentation und Evaluation von Kartendaten zu optimieren. Dazu musste ein komplexes SQL Datenbankschema entworfen werden. Meine Tätigkeitsgebiet erstreckte sich auf das Front- und Backend.
+- Außerdem wurde meine Bachelorarbeit bei der Carmeq verfasst.
+- Anschließend half ich dabei, eine Datenpipeline zu optimieren, die Kartendaten zusammenträgt, normalisiert und über eine REST-Schnittstelle zur Verfügung stellt.
 
-
-`January 2018 - June 2019`
-__Student Developer__
+`Jan 2018 - Jun 2019`
+__Studentischer Entwickler__
 - _Dev Crew Berlin UG_
-- Fullstack development for event webpages with strong focus on (Python) backend. Also creating all kinds of internal tools (web and desktop applications) using Python and Javascript. Further, some administrative tasks eg. managing mail accounts and domains.
+- Fullstack Entwicklung in Python von kleinen bis mittelgroßen Event Webseiten, die über ein Backendsystem den Einladungsprozess für Veranstaltungen vereinfachen und optimieren. Zusätzlich entwickelte ich eine Reihe interner Werkzeuge. U.a. eine Website zur Administration der verwendeten Domains und E-Mail Postfächer, sowie eine Desktopanwendung, mit der Druckaufträge über eine REST-Schnittstelle automatisch gestartet und an bestimmte Drucker gesendet werden könnnen. Außerdem mussten (Linux-)Server administriert werden. 
 
-`September 2016 - December 2017`
-__Student Assistant__
+`Sep 2016 - Dez 2017`
+__Studentische Hilfskraft__
 - _FU Berlin - Meteorological Institute_
-- Linux System Administration: Taking care of the Linux (Debian) workstations as well as developing some smaller tools to make the admin's life easier.
+- Unterstützung des Systemandimistratiors. Dies umfasste die Wartung der Desktopworkstations (Linux/Debian) und Server sowie die Entwicklung kleinere Tools für interne Aufgaben. 
 
-`August 2016 - September 2016`
-__Internship__
+`Aug 2016 - Sep 2016`
+__Praktikum__
 - _FU Berlin - Meteorological Institute_
-- Compiling simulation software and comparing results with the legacy system.
+- Kompilierung einer neuen Simulationssoftware und systematische Evaluation der Veränderungen im Vergleich zur derzeitigen Software.
 
-`December 2014 - December 2015`
-__Student Scientific Assistant__
+`Dez 2014 - Dez 2015`
+__Studentische Hilfskraft__
 - _Fraunhofer IKTS Dresden_
-- Planning, running and evaluating experiments to determine the hardness and other properties of materials on a nano meter scale. Evaluation was done with Python and numerical frameworks as numpy and scipy.
+- Planung, Durchführung und Auswertung von Experimenten zur Bestimmung von Materialparametern wie Härte und Elastizität dünner Schichten. Die Evaluation wurde in Python mit den Frameworks Numpy und SciPy durchgeführt.
 
-## Languages
+## Sprachen
 
-- German (Native)
-- English (Fluent)
-- Spanish (Basic)
+- Deutsch (Muttersprache)
+- Englisch (Fließend)
+- Spanisch (Grundlagen)
 
-## What else?
+## Weiteres Engagement
 
-`June 2019`
-__Successfull Participation in a Hackathon__
+`Jun 2019`
+__Erfogreiche Teilnahme an einem Hackathon__
 - _Bundesministerium für Familie, Senioren, Frauen und Jugend_
-- The family ministry hosted a hackathon where new ideas to tackle social issues should be developed. Our group created a concept to improve the open data interface of the ministry to make it more accessible, interesting and useful for scientific and educational usage.
+- Das Ministerium veranstaltete einen Hackathon, um neue Ideen zu entwickeln, die gesellschaftliche Probleme auf innovative Art lösen können. Die Gruppe, deren Teil ich gewesen bin, entwarf ein Konzept für die OpenData-Seite des Ministeriums.
 
-## About me
-I like calm people's things like reading books (mainly philosophical) and meditation. Despite that, I'm into sports, especially traditional martial arts - I hope, I'll find a Kung Fu school in Bochum!
+## Über mich
 
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+- Ich nutze meine Freizeit entweder zum Lesen, Sport treiben (Kung Fu) oder Meditieren. Wenn ich mal länger frei habe (und meine Freundin am besten auch), suche ich mir ein interessantes Ziel heraus und mache mich zu Fuß oder mit dem Fahrrad auf den Weg. Generell würde ich mich als ruhigen und aufgeschlossenen Mitmenschen beschreiben.  
