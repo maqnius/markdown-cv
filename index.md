@@ -50,7 +50,7 @@ __Abitur__
 
 ## Erfahrung
 
-`Feb 2021 - April 2021`
+`Feb 2021 - Mai 2021`
 __Fullstack Entwickler__
 - _Werkbank GmbH_
 - Entwicklung von Webanwendungen für mittelständische Unternehmen. Im Backend wurde eine REST Schnittstelle mittels Django implementiert. Im Frontend wurde React genutzt.
